@@ -55,4 +55,4 @@ I'm passionate about:
 
 ## 📈 GitHub Activity & Insights  
 
-![Metrics](https://github.com/your-username/github-metrics/blob/main/github-metrics.svg)
+![Metrics](https://github.com/dnekanayake/github-metrics/blob/main/github-metrics.svg)
