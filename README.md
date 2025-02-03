@@ -50,3 +50,9 @@ I'm passionate about:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dnekanayake&theme=radical)  
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dnekanayake&theme=radical)  
+
+---
+
+## 📈 GitHub Activity & Insights  
+
+![Metrics](https://github.com/your-username/github-metrics/blob/main/github-metrics.svg)
