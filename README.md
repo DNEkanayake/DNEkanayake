@@ -55,4 +55,4 @@ I'm passionate about:
 
 ## 📈 GitHub Activity & Insights  
 
-![Metrics](https://github.com/dnekanayake/github-metrics/blob/main/github-metrics.svg)
+![Dhanushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnekanayake&show_icons=true&theme=radical)
