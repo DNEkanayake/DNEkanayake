@@ -1,6 +1,8 @@
 # 🌟 About Me
 
-Hi! 👋 I'm **Dhanushka Ekanayake**, an undergraduate student pursuing a BSc Honours in **Electronics and Computer Science** at the University of Kelaniya.  
+Hi! 👋 I'm **Dhanushka Ekanayake**, an undergraduate student pursuing a BSc Honours in **Electronics and Computer Science** at the University of Kelaniya. 
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
 
 ---
 
