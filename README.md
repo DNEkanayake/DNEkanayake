@@ -36,3 +36,15 @@ I'm passionate about:
 ## 📞 Let's Connect!
 - [💼 LinkedIn](https://www.linkedin.com/in/dhanushka-n-ekanayake-41a91225a)  
 - [🔗 GitHub](https://github.com/DNEkanayake)
+
+---
+
+## 📊 GitHub Stats  
+
+![Dhanushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnekanayake&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnekanayake&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dnekanayake&theme=radical)  
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dnekanayake&theme=onedark)  
