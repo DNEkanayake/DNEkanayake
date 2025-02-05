@@ -38,6 +38,7 @@ I'm passionate about:
 ## 📞 Let's Connect!
 - [💼 LinkedIn](https://www.linkedin.com/in/dhanushka-n-ekanayake-41a91225a)  
 - [🔗 GitHub](https://github.com/DNEkanayake)
+- [🔗 X](https://x.com/Ehdnekanayake)
 
 ---
 
