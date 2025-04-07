@@ -1,6 +1,7 @@
 # 🌟 About Me
 
 Hi! 👋 I'm **Dhanushka Ekanayake**, an undergraduate student pursuing a BSc Honours in **Electronics and Computer Science** at the University of Kelaniya. 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
 
